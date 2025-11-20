@@ -1,2 +1,3 @@
-# AI-ML-Assignment-5-Simple-RAG
+William Anderson / AD331
 Knowledge base - Rag : Implementing a Simple Retrieval-Augmented Generation (RAG) System 
+
