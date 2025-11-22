@@ -1,7 +1,10 @@
 
 
 
-William Anderson 
+William Anderson
+
+
+
 Simple Retrieval-Augmented Generation (RAG) System 
 
 Knowledge base - Rag : Implementing a Simple Retrieval-Augmented Generation (RAG) System 
