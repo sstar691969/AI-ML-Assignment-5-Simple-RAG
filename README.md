@@ -1,7 +1,9 @@
 
 
 
-William Anderson / AD331
+William Anderson 
+Simple Retrieval-Augmented Generation (RAG) System 
+
 Knowledge base - Rag : Implementing a Simple Retrieval-Augmented Generation (RAG) System 
 
 Models Used:
